@@ -1,0 +1,13 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "formulário login",
+  "main": "login.html",
+  "scripts": {
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "diana",
+  "license": "ISC"
+}
